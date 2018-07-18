@@ -9,3 +9,14 @@ Setup procedure:
 6. You are done!!  
 7. Enjoy discuzzing any random topic you feel like!   
 
+
+After setting up the database if you find any problem in running the application, just add the line    
+sql_mode = "ONLY_FULL_GROUP_BY,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION"
+
+inside file:  
+/etc/mysql/mysql.conf.d/mysqld.cnf  
+
+then  
+sudo service mysql restart  
+
+
