@@ -1,4 +1,4 @@
-# Discuzzion- a platform to discuss anything & everything you feel like 
+# DISCUZZION- a platform to discuss anything & everything you feel like 
 
 Setup procedure:  
 1. Clone the repo in local machine.  
