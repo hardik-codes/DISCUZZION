@@ -2,7 +2,7 @@
 
 Setup procedure:  
 1. Clone the repo in local machine.  
-2. Set up the database with the discuzzion.sql in the database directory.  
+2. Set up the database with the discuzzion.sql in the database directory & name the database as discuzzion    
 3. Replace "dummyusername" with your MySQL server root name in database.php   
 4. Replace "dummypassword" with your corresponding password in database.php  
 5. Set up the server.  
