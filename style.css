@@ -1,0 +1,274 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+a {
+	color: #000;
+	text-decoration:none;
+	
+}
+
+a:hover{
+	color:#007FFF;
+	text-decoration:none;
+	
+}
+
+
+
+body{
+	background:url('https://img.over-blog-kiwi.com/0/55/10/99/20180417/ob_8803e5_ussion.jpg');
+	background-size:cover;
+	
+}
+
+button:focus {
+
+	outline-style: none;
+	outline-width: 0;
+	
+}
+
+#clas {
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	padding: 15px;
+	position: relative;
+	width: 230px;
+}
+
+.contempt {
+	background-color: #EFEFEF;
+	display: block; 
+	float: left;   
+	margin-top: 15px;
+	opacity:0.8;
+	position: relative;
+	padding: 15px;
+	width: 970px;
+	
+	
+}
+
+
+
+div.dashboard {
+	margin: 0px auto;
+	width: 1000px;
+	
+}
+
+div.description {
+	
+	display: block;
+	float: auto;
+	padding: 15px;
+	width: 700px;
+}
+
+div.matter {
+	background-color: #EFEFEF;
+	display: block;
+	float: left;
+	margin-top: 15px;
+	opacity:0.8;
+	position: relative;
+	padding: 15px;
+	width: 970px;
+}
+
+div.top {
+	color:#222;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	
+}
+
+div.top h1 {
+	
+	color:#404040;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: normal;
+	margin-left: 15px;
+   
+}
+
+h1 a:hover {
+	text-decoration: none;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+input[type="password"]:focus {
+	
+	outline-style: none;
+	outline-width: 0;
+}
+	
+input[type="submit"]:focus {
+	
+	outline-style: none;
+	outline-width: 0;
+}
+
+input[type="submit"], button {
+	background-image: linear-gradient(to bottom, #222, #888);
+	border-radius: 4px;
+	border: none;
+	color: #EFEFEF;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin-top: 15px;
+	padding: 7px;
+	width: 200px;
+		
+}
+
+input[type="text"]:focus {
+	
+	outline-style: none;
+	outline-width: 0;
+}
+
+input[type="text"],[type="password"] {
+	border: none;
+	border-radius: 15px;
+	background-color: #DFDFDF;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	
+	margin-top: 15px;
+	padding: 7px;
+	width: 200px;
+
+}
+
+input#topic {
+	border: none;
+	border-radius: 15px;
+	background-color: #DFDFDF;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin-top: 15px;
+	padding: 7px;
+	width: 350px;
+	
+}
+
+
+
+.newcat{
+	background-color:white;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-top:15px;
+	opacity:0.7;
+	padding-bottom:15px;
+	padding-top:15px;
+	padding-left:15px;
+	
+}
+
+
+.newsubcat{
+	background-color:white;
+	margin-top:15px;
+	opacity:0.7;
+	
+	padding-bottom:15px;
+	padding-top:15px;
+	padding-left:15px;
+	
+	text-align: center;
+}
+
+p{
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.repli {
+	margin-top:100px !important;
+	margin:0 auto;
+	text-align:center;
+	
+}
+
+table.table_R td {
+	padding-left: 15px;
+	margin-bottom: 5px;
+	vertical-align: top;
+	
+}
+
+table.table_R th {
+	vertical-align: top;
+	font-size: 12pt;
+	text-align: left;
+	
+}
+	
+table.table_R {
+	width: 100%;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	
+}
+
+table.table_T td {
+	padding: 4px;
+	font-size: 12pt;
+	
+}
+
+table.table_T th {
+	background-color: #8E8E8E;
+	font-size: 12pt;
+	padding: 4px;
+	text-align: left;
+	vertical-align: top;
+	
+	
+}
+
+table.table_T {
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	width: 100%;
+	
+}
+
+table.table_C th {
+	font-size: 12pt;
+	text-align: left;
+	font-weight: bold;
+	
+}
+	
+table.table_C td.category_M {
+	font-weight: bold;
+	font-size: 16pt;
+	
+}
+
+table.table_C {
+	width: 100%;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin-bottom: 35px;
+}
+
+textarea {
+	
+	height: 100px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	width: 350px;
+}
+
+.welcome{
+	font-size:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0080FF;
+}
