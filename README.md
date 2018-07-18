@@ -10,7 +10,7 @@ Setup procedure:
 7. Enjoy discuzzing any random topic you feel like!
 
 
-
+<br><br><br>
 
 After setting up the database if you find any problem in running the application, just add the line    
 sql_mode="ONLY_FULL_GROUP_BY,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION"  
