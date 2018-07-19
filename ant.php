@@ -4,8 +4,8 @@
      session_start();
      include ('database.php');
      
-     $topic = $_POST['topic'];
-     $content = nl2br($_POST['content']);
+     $topic = addslashes($_POST['topic']);
+     $content = nl2br(addslashes($_POST['content']));
      $c = $_GET['c'];
      $s = $_GET['s'];
      
