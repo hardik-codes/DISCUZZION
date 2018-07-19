@@ -7,7 +7,7 @@ Setup procedure:
 4. Replace "dummypassword" with your corresponding password in database.php  
 5. Set up the server.  
 6. You are done!!  
-7. Enjoy discuzzing any random topic you feel like!
+7. Enjoy discussing any random topic you feel like!
 
 
 <br><br><br>
