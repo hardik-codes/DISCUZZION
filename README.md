@@ -1,3 +1,4 @@
+![alt text](/DISCUZZION.png) 
 # DISCUZZION- a platform to discuss anything & everything you feel like 
 
 Setup procedure:  
